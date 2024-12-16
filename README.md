@@ -1,5 +1,5 @@
 # DLE
-Diccionario de la Lengua Española (DLE) by Real Academia Española (RAE), available from the terminal, using as little code as possible, and only dependencies that come pre-installed with MacOS or any Linux distro.
+Diccionario de la Lengua Española (DLE) by Real Academia Española (RAE), available from the terminal, using as little code as possible, and only dependencies that come pre-installed with MacOS or most Linux distros.
 
 ## Installation
 
